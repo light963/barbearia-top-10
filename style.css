@@ -1,32 +1,26 @@
-# {
+* {
     margin: 0;
     padding: 0;
-}
-
-img {
-
-width: 100%;
-}
-h1 {
-
-    text-align: center;
-    color:rgb(5, 5, 5);
-    text-transform: : uppercase;
-}
-
-body {
-    background: #636363;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, hsl(0, 0%, 3%), #636363);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #161616, #636363); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+    }
     
-
-
-}
-
-div{
-background-color: #cccccc;
-font-size: 35px;
-text-align: center;
-
-}
+    #banner {
+    width: 100%;
+    }
+    
+    h1 {
+        text-align: center;
+        color: rgb(255, 255, 255);
+        text-transform: uppercase;
+       
+    }
+    
+    body {
+        background: rgb(63, 94, 251);
+        background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+    }
+    
+    div {
+    background-color: #cccccc;
+    font-size: 35px;
+    text-align: center;
+    }
