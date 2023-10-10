@@ -31,7 +31,7 @@ nav a {
 
 nav a:hover {
  color: blue;
- text-decoration: solid;
+ text-decoration: underline;
 }
     #banner {
     width: 100%;
