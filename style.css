@@ -68,6 +68,7 @@ nav a:hover {
     .item-sevico{
     display: flex;
     width: 15%;
-    
+    height: 290px;
+    border: 1px solid white;
 
     }
