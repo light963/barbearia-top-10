@@ -1,9 +1,9 @@
 * {
     margin: 0;
     padding: 0;
-    }
+}
 
-    #logo {
+#logo {
     width: 10%;
     height: 10%;
 }
@@ -20,7 +20,7 @@ nav li {
     display: inline;
     padding: 30px;
 }
-  
+
 nav a {
     text-transform: uppercase;
     color: rgb(255, 255, 255);
@@ -31,44 +31,45 @@ nav a {
 }
 
 nav a:hover {
- color: blue;
- text-decoration: underline;
+    color: blue;
+    text-decoration: underline;
 }
-    #banner-topo {
+
+#banner-topo {
     width: 100%;
     background-color: black;
-    }
-    
-    h1 {
-        text-align: center;
-        color: rgb(255, 255, 255);
-        text-transform: uppercase;
-       
-    }
-    
-    body {
-        background-color: black;
-    }
-    
-    .texto {
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+
+}
+
+body {
+    background-color: black;
+}
+
+.texto {
     background-color: #cccccc;
     font-size: 35px;
     text-align: center;
-    }
+}
 
-    .servico{
+.servico {
 
-     display: flex;
-     width: 100vw;
-     height: 300px;
-     justify-content: space-evenly;
-     align-items: center;
-    }
+    display: flex;
+    width: 100vw;
+    height: 300px;
+    justify-content: space-evenly;
+    align-items: center;
+}
 
-    .item-sevico{
+.item-sevico {
     display: flex;
     width: 15%;
     height: 290px;
     border: 1px solid white;
 
-    }
+}
