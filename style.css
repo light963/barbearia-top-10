@@ -89,5 +89,25 @@ padding: 1%;
     text-transform: uppercase;
     font-size: 40px;
 
-    
+} 
+
+#item1{
+
+background-image: url(https://images.pexels.com/photos/2521978/pexels-photo-2521978.jpeg?auto=compress&cs=tinysrgb&w=600);
+background-size: cover;
+
 }
+
+#item2{
+
+background-image: url(https://images.pexels.com/photos/2068672/pexels-photo-2068672.jpeg?auto=compress&cs=tinysrgb&w=600);
+background-size: cover;
+    
+    }
+
+#item3{
+
+background-image: url(https://images.pexels.com/photos/3998429/pexels-photo-3998429.jpeg?auto=compress&cs=tinysrgb&w=600);
+background-size: cover;
+        
+    }
